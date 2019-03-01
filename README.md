@@ -26,4 +26,4 @@ Contains the work-in-progress *crow.amxd* M4L device, which requires *crow.maxpa
 
 
 
-[*crow.maxhelp*](https://github.com/whimsical-sam/crow-max/issues?q=is%3Aissue+is%3Aopen+label%3Amaxhelp)
+[*crow.maxhelp issues*](https://github.com/whimsical-sam/crow-max/issues?q=is%3Aissue+is%3Aopen+label%3Amaxhelp)
