@@ -26,11 +26,4 @@ Contains the work-in-progress *crow.amxd* M4L device, which requires *crow.maxpa
 
 
 
-*crow.maxhelp*
-
-* Update *out[n]* to *output[n]* once new firmware installed on Crow
-* Better visualization on inputs tab.
-* Entire outputs tab (suggest self-patching Crow to visualize outputs in Max)
-* Entire metros tab
-* Add I2C tab
-* Once script-loading bug is repaired in crowmax.lua, sript-loading tab.
+[*crow.maxhelp*](https://github.com/whimsical-sam/crow-max/issues?q=is%3Aissue+is%3Aopen+label%3Amaxhelp)
