@@ -21,15 +21,8 @@ Contains the work-in-progress *crow.amxd* M4L device, which requires *crow.maxpa
 
 ## To Do
 
-*crow.amxd*
+[*crow.amxd issues*](https://github.com/whimsical-sam/crow-max/issues?q=is%3Aissue+is%3Aopen+label%3Am4l)
 
-* Implement UI for connecting to Crow
-* Implement UI for enabling MIDI on input[1]
-* Implement ASL sprintf for remote mode (Ableton Automation-to-CV)
-* Implement ASL action:start() when transport begins.
-* Implement keep-alives to maintain sync (every 4 bars?)
-* Determine how changes to ASL parameters are passed to crow (currently: new ASL actions for every parameter change ... better: ASL actions contain functions that return parameter variable at runtime, that way you only need to send Crow the updated value of the parameter)
-* Determine how changing tempo affects phase of slopes
 
 
 
